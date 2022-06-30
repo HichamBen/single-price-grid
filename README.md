@@ -12,13 +12,13 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://hichamben.github.io/single-price-grid/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
-- [Tailwindcss](https://reactjs.org/) - CSS framework
+- [Tailwindcss](https://tailwindcss.com/) - CSS framework
 
 ## Author
 
